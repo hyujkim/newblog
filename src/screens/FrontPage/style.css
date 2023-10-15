@@ -1,0 +1,223 @@
+.front-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.front-page .div {
+  background-color: #ffffff;
+  height: 3723px;
+  overflow: hidden;
+  position: relative;
+  width: 1728px;
+}
+
+.front-page .overlap-group {
+  height: 547px;
+  left: 1px;
+  position: absolute;
+  top: 18px;
+  width: 1727px;
+}
+
+.front-page .image {
+  height: 546px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1727px;
+}
+
+.front-page .text-wrapper {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-style: italic;
+  font-weight: 300;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.front-page .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 19px;
+  font-weight: 300;
+  left: 1572px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 153px;
+}
+
+.front-page .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 19px;
+  font-weight: 300;
+  left: 1443px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 258px;
+}
+
+.front-page .text-wrapper-4 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 21px;
+  font-weight: 300;
+  left: 1457px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 3616px;
+  white-space: nowrap;
+  width: 553px;
+}
+
+.front-page .overlap {
+  height: 30px;
+  left: 97px;
+  position: absolute;
+  top: 3616px;
+  width: 878px;
+}
+
+.front-page .text-wrapper-5 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  left: 484px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 0;
+  width: 138px;
+}
+
+.front-page .arrow {
+  height: 13px;
+  left: 469px;
+  position: absolute;
+  top: 6px;
+  width: 409px;
+}
+
+.front-page .HYUNJI-KIM {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  white-space: nowrap;
+  width: 553px;
+}
+
+.front-page .span {
+  font-style: italic;
+  font-weight: 500;
+}
+
+.front-page .text-wrapper-6 {
+  font-style: italic;
+  font-weight: 300;
+}
+
+.front-page .text-wrapper-7 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 300;
+  left: 980px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 3616px;
+  width: 124px;
+}
+
+.front-page .overlap-2 {
+  background-color: #ffffff;
+  height: 521px;
+  left: 5816px;
+  position: absolute;
+  top: 1801px;
+  width: 1440px;
+}
+
+.front-page .new-page {
+  background-color: #ffffff;
+  height: 521px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.front-page .PAGE {
+  height: 556px;
+  left: -1px;
+  position: absolute;
+  top: 588px;
+  width: 1728px;
+}
+
+.front-page .img {
+  height: 556px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1727px;
+}
+
+.front-page .project {
+  height: 555px;
+  left: 0;
+  position: absolute;
+  top: 1173px;
+  width: 1727px;
+}
+
+.front-page .project-2 {
+  height: 555px;
+  left: 0;
+  position: absolute;
+  top: 1757px;
+  width: 1727px;
+}
+
+.front-page .project-3 {
+  height: 582px;
+  left: 0;
+  position: absolute;
+  top: 2341px;
+  width: 1727px;
+}
+
+.front-page .project-4 {
+  height: 555px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 2952px;
+  width: 1722px;
+}
